@@ -9,4 +9,3 @@ function procesa() {
 
 procesa();
 console.log(x);
-
